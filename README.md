@@ -17,7 +17,7 @@ Ce repository contient :
 basic/
 ├── README.md                      # Introduction et description du repository
 ├── technical_schemas/
-│   ├── person.yml                 # Glossaire et définitions OpenAPI
+│   ├── person.yaml                 # Glossaire et définitions OpenAPI
 │   ├── examples/
 │   │   ├── example_person_1.json  # Premier exemple JSON
 │   │   ├── example_person_2.json  # Deuxième exemple JSON

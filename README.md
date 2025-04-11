@@ -9,6 +9,7 @@ Ce repository contient :
 - Un glossaire standardisé au format OpenAPI (Swagger), décrivant précisément les champs utilisés.
 - Des exemples concrets de données personnelles représentées en JSON.
 - Consultez les [Notes Techniques](docs/technical_docs/README.md) pour plus de détails sur les contraintes techniques.
+- Consulter une vue du .[swagger].(https://test-belgium-test.github.io/person/).
 
 
 ## Structure du repository
@@ -32,4 +33,6 @@ person/
 Utilisez ces ressources pour comprendre, valider et intégrer efficacement les données les systèmes associés. Chaque fichier JSON d'exemple et la documentation technique sont conçus pour vous guider clairement à travers les standards requis par le projet.
 
 Merci pour votre intérêt !
+
+
 

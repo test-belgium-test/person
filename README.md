@@ -14,16 +14,17 @@ Ce repository contient :
 ## Structure du repository
 
 ```
-basic/
+person/
 ├── README.md                      # Introduction et description du repository
-├── technical_schemas/
-│   ├── person.yaml                 # Glossaire et définitions OpenAPI
-│   ├── examples/
-│   │   ├── example_person_1.json  # Premier exemple JSON
-│   │   ├── example_person_2.json  # Deuxième exemple JSON
+├── docs/
+│   ├── technical_specs/
+│   │   ├── person.yaml                 # Glossaire et définitions OpenAPI
+│   │   ├── examples/
+│   │   │   ├── example_person_1.json  # Premier exemple JSON
+│   │   │   ├── example_person_2.json  # Deuxième exemple JSON
 ├── technical_docs/
 │   └── README.md                  # Contraintes techniques expliquées en langage naturel
-└── images/                        # Images illustratives, si nécessaire
+└── RELEASE_NOTES.md                       # Images illustratives, si nécessaire
 ```
 
 ## Comment utiliser ces ressources

@@ -1,0 +1,12 @@
+{
+  "firstName": "Alice",
+  "lastName": "Dupont",
+  "birthDate": "1990-05-12",
+  "gender": 2,
+  "address": "123 Rue de l'Exemple, 1000 Bruxelles, Belgique",
+  "phoneNumber": "+32 475 12 34 56",
+  "civilStatus": 2,
+  "householdRelation": 1
+}
+
+

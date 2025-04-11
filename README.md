@@ -6,10 +6,11 @@ Bienvenue dans le repository `basic` du projet **e-Test 3.0**, dédié à la dé
 
 Ce repository contient :
 
-- Un glossaire standardisé au format OpenAPI (Swagger), décrivant précisément les champs utilisés.
-- Des exemples concrets de données personnelles représentées en JSON.
-- Consultez les [Notes Techniques](docs/technical_docs/README.md) pour plus de détails sur les contraintes techniques.
-- Consulter une vue du .[swagger].(https://test-belgium-test.github.io/person/).
+- Un glossaire standardisé au format **OpenAPI (Swagger)**, décrivant précisément les champs utilisés.
+- Des exemples concrets de données personnelles représentées en **JSON**.
+- 📄 Consultez les [Notes Techniques](docs/technical_docs/README.md) pour plus de détails sur les contraintes techniques.
+- 🌐 Visualisez la documentation Swagger ici : [Swagger UI](https://test-belgium-test.github.io/person/)
+
 
 
 ## Structure du repository

@@ -20,13 +20,10 @@ person/
 ├── README.md                      # Introduction et description du repository
 ├── docs/
 │   ├── technical_specs/
-│   │   ├── person.yaml                 # Glossaire et définitions OpenAPI
-│   │   ├── examples/
-│   │   │   ├── example_person_1.json  # Premier exemple JSON
-│   │   │   ├── example_person_2.json  # Deuxième exemple JSON
+│   │   ├── basic.yaml             # Glossaire et définitions OpenAPI
 ├── technical_docs/
 │   └── README.md                  # Contraintes techniques expliquées en langage naturel
-└── RELEASE_NOTES.md                       # Images illustratives, si nécessaire
+└── RELEASE_NOTES.md               # Desciption des versions du glosszaire ou des changements
 ```
 
 ## Comment utiliser ces ressources

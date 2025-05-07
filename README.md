@@ -1,6 +1,6 @@
-# Person : Glossaire et Référentiels Techniques
+# Glossaire et Référentiels Techniques
 
-Bienvenue dans le repository `basic` du projet **e-Test 3.0**, dédié à la définition et à la standardisation des types de données liés aux informations personnelles utilisées dans la sécurité sociale numérique.
+Bienvenue dans le repository `basic` du projet **e-Test 3.0**, dédié à la définition et à la standardisation des types de données.
 
 ## Contenu du repository
 

@@ -415,6 +415,12 @@ components:
         startDate:
           type: string
           format: date
+          example: 2000-12-30
+          x-glossary: "00910"
+          x-description:
+            en: "Start date of the daily registration"
+            fr: "Date de début de l'enregistrement journalier"
+            nl: "Startdatum van de dagelijkse registratie"
         endDate:
           type: string
           format: date

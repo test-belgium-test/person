@@ -596,6 +596,15 @@ components:
           $ref: "../../belgif/person/identifier/v1/person-identifier-v1.yaml#/components/schemas/Ssin"
       required:
         - ssin
+    startDate:
+      type: string
+      format: date
+      example: 2000-12-30
+      x-glossary: "00910"
+      x-description:
+        en: "Start date of the daily registration"
+        fr: "Date de début de l'enregistrement journalier"
+        nl: "Startdatum van de dagelijkse registratie"
 
     PageLinks:
       description: Object containing links of paginated collection of resources

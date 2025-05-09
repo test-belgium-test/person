@@ -5,7 +5,7 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 
 ### Propriétés du Schéma :
 
-* `[enterpriseNumber](url)`
+* `[enterpriseNumber]` : [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md)
 
 * `nssoNumber` (integer) - Numéro ONSS de l'employeur.
 

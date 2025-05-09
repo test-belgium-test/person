@@ -5,9 +5,9 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 
 ### Propriétés du Schéma :
 
-* `[enterpriseNumber]` : [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md)
+* `enterpriseNumber` : [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md)
 
-* `nssoNumber` (integer) - Numéro ONSS de l'employeur.
+* `nssoNumber`  : [Voir les détails du champ enterpriseNumber](../field/nssoNumber.md)
 
 
 ### Contraintes métier :

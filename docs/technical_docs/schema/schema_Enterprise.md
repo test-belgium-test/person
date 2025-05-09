@@ -5,16 +5,18 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 
 ### Propriétés du Schéma :
 
-* `enterpriseNumber` : [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md)
+| Nom du champ      |  Description                                                               | Related anomalies   |
+|-------------------|----------------------------------------------------------------------------|---------------------|
+| enterpriseNumber  | [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md) | [Voir les anomalies](#enterprisenumber)  |
+| nssoNumber        | [Voir les détails du champ nssoNumber](../field/nssoNumber.md)             |[Voir les anomalies](#nssonumber)   |
 
-* `nssoNumber`  : [Voir les détails du champ enterpriseNumber](../field/nssoNumber.md)
 
 
 ### Contraintes métier :
 
 * **Condition exclusive** : Un seul des deux numéros peut être complété (`oneOf`).
 
-### Anomalies (réponses REST standards) :
+### Anomalies:
 
 #### enterpriseNumber
 

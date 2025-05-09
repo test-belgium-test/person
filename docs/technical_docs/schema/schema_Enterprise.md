@@ -5,10 +5,10 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 
 ### Propriétés du Schéma :
 
-| Nom du champ      |  Description                                                               | Related anomalies   |
-|-------------------|----------------------------------------------------------------------------|---------------------|
-| enterpriseNumber  | [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md) | [Voir les anomalies](#enterprisenumber)  |
-| nssoNumber        | [Voir les détails du champ nssoNumber](../field/nssoNumber.md)             |[Voir les anomalies](#nssonumber)   |
+| Nom du champ      |  Description                                                               | 
+|-------------------|----------------------------------------------------------------------------|
+| enterpriseNumber  | [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md) | 
+| nssoNumber        | [Voir les détails du champ nssoNumber](../field/nssoNumber.md)             |
 
 
 
@@ -18,20 +18,11 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 
 ### Anomalies:
 
-#### enterpriseNumber
-
 | Code anomalie | Description                        | Gravité |
 | ------------- | ---------------------------------- | ------- |
 | 001     | Non présent                        | B       |
 | 146     | Non admis                          | B       |
 | 090     | Erreur de cardinalité              | B       |
+| 151     | Pas identifiable              | B       |
 | 091     | Erreur de séquence                 | B       |
 
-#### nssoNumber
-
-| Code anomalie | Description                                     | Gravité |
-| ------------- | ----------------------------------------------- | ------- |
-| 001     | Non présent                                     | B       |
-| 090     | Erreur de cardinalité                           | B       |
-| 146     | Non admis                                       | B       |
-| 091     | Erreur de séquence                              | B       |

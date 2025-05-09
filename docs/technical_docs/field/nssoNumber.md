@@ -16,7 +16,7 @@ Numéro unique permettant d'identifier une entreprise employeur.
 ### Contraintes métier :
 * **Domaine de definition** : 	Nombre entier et élément de [100006;199999934] pour les numéros définitifs.
 
-### Anomalies Swagger (InputValidationProblem) :
+### Anomalies
 #### enterpriseNumber
 
 | Code anomalie | Description                  | Gravité |
@@ -28,7 +28,7 @@ Numéro unique permettant d'identifier une entreprise employeur.
 | 235     | Non repris au répertoire           | B       |
 | 022     | Incompatibilité avec le répertoire | NP      |
 
-**Exemple détaillé d'anomalie (ressource non trouvée) :**
+**Exemple détaillé d'anomalie :**
 
 ```json
 {

@@ -12,6 +12,8 @@ Numéro unique permettant d'identifier une entreprise employeur.
   * Positions 1 à 7 : numéro d'ordre (position 1 commence par 0 ou 1)
   * Positions 8 et 9 : chiffres de contrôle
 * **Valeur par défaut si inconnue :** 0
+
+Contraintes métier :
 * **Domaine de definition** : 	Nombre entier et élément de [100006;199999934] pour les numéros définitifs.
 
 ### Anomalies Swagger (InputValidationProblem) :

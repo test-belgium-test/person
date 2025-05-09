@@ -22,6 +22,7 @@ Numéro unique permettant d'identifier une entreprise employeur.
 | Code anomalie | Description                  | Gravité |
 | ------- | ---------------------------------- | ------- |
 | 002     | Non numérique                      | B       |
+| 008     | Pas dans le domaine de définition  | B       |
 | 093     | Longueur incorrecte                | B       |
 | 004     | Nombre de contrôle invalide        | B       |
 | 235     | Non repris au répertoire           | B       |

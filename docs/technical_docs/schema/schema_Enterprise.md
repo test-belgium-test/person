@@ -10,7 +10,7 @@ Objet permettant d'identifier une entreprise dans une déclaration employeur. Se
 | enterpriseNumber  | [Voir les détails du champ enterpriseNumber](../field/enterpriseNumber.md) | 
 | nssoNumber        | [Voir les détails du champ nssoNumber](../field/nssoNumber.md)             |
 
-
+[Annexe]([../field/nssoNumber.md](https://www.socialsecurity.be/lambda/portail/glossaires/dmfa.nsf/web/glossary_home_fr))  
 
 ### Contraintes métier :
 

@@ -1,8 +1,7 @@
 ## Champ : enterpriseNumber
 
 **Description :**
-Numéro unique permettant d'identifier une entreprise employeur. Doit être renseigné uniquement si le `nssoNumber` n'est pas complété.
-
+Numéro unique permettant d'identifier une entreprise employeur.
 ### Détails du champ :
 
 * **Type :** integer

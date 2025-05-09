@@ -13,7 +13,7 @@ Numéro unique permettant d'identifier une entreprise employeur.
   * Positions 9 et 10 : chiffres de contrôle
 * **Valeur par défaut si inconnue :** 0
 
-### Anomalies Swagger (InputValidationProblem) :
+### Anomalies:
 #### enterpriseNumber
 
 | Code anomalie | Description                  | Gravité |

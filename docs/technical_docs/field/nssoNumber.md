@@ -13,7 +13,7 @@ Numéro unique permettant d'identifier une entreprise employeur.
   * Positions 8 et 9 : chiffres de contrôle
 * **Valeur par défaut si inconnue :** 0
 
-Contraintes métier :
+### Contraintes métier :
 * **Domaine de definition** : 	Nombre entier et élément de [100006;199999934] pour les numéros définitifs.
 
 ### Anomalies Swagger (InputValidationProblem) :

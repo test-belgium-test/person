@@ -34,7 +34,7 @@
         layout: "StandaloneLayout"
       });
        // Markdown loading
-    fetch('docs/readme.md')
+    fetch('../readme.md')
       .then(response => response.text())
       .then(text => {
         document.getElementById('markdown-doc').innerHTML = marked.parse(text);

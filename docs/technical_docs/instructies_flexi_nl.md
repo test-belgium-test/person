@@ -1,4 +1,4 @@
-# [Return to main page  ](https://github.com/test-belgium-test/basic/blob/main/README.md)
+[Return to main page  ](https://github.com/test-belgium-test/basic/blob/main/README.md)
 # Table des matières
 
 1. [Contexte](#1-contexte)  

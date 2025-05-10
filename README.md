@@ -4,13 +4,18 @@ Welcome to the `basic` repository of the **e-Gov 3.0** project, dedicated to the
 
 ## Repository Contents
 
-This repository contains:
+(https://test-belgium-test.github.io/basic/)
 
 | Type        | Description                                                                                    | Documentation FR      | Documentatie NL                                            | Documentation EN                           |
 |-------------|------------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------------------|--------------------------------------------|
 | Glossary    | A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used. | Voir la documentation | [Bekijk de documentatie](docs/technical_docs_nl/README.md) | See the EN documentation                   |
-| JSON schema | Retrieve the JSON schema                                                                       |                       |                                                            |[Swagger](docs/technical_specs/basic.yaml) |
-| JSON UI     | View the documentation                                                                         |                       |                                                            | [Swagger UI](https://test-belgium-test.github.io/basic/)                            |
+
+
+| Type                                                   | Description                           |
+|--------------------------------------------------------|---------------------------------------|
+| [JSON schema](docs/technical_specs/basic.yaml)         | Retrieve the JSON schema              |
+| [JSON UI](https://test-belgium-test.github.io/basic/)  | View the documentation                |
+
 
 ## Repository Structure
 

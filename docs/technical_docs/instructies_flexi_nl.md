@@ -1,4 +1,4 @@
-<-- [Return to main page  ] (basic/readme.md)
+<-- [Return to main page  ](basic/readme.md)
 # Table des matières
 
 1. [Contexte](#1-contexte)  

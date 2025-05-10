@@ -97,8 +97,11 @@ Op langere termijn, bij de verdere realisatie van de centrale datalaag in het ka
 
 ### 3.2 Schema (Blocs)
 
-> *(Contenu à compléter)*
-
+| Schema Name       | Description                                                                                                             | 
+|-------------------|-------------------------------------------------------------------------------------------------------------------------|
+| service                  | Functioneel blok dat toelaat de prestaties van een werknemer voor een tewerkstelling van de werknemerslijn aan te geven.| 
+| remunerationCalculation  | TODO                  | 
+| relation                   |  TODO                  | 
 ### 3.3 Field (Zone)
 
 > *(Contenu à compléter)*

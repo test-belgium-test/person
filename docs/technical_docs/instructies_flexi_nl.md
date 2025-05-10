@@ -59,23 +59,41 @@ Deze nieuwe aangifte vormt een pilootproject van het grotere **eGov 3.0-project*
 
 ### 2.1 TOEPASSINGSGEBIED
 
-> *(Contenu à compléter)*
+**Flexi At Work** betreft de loonbrieven van de gepensioneerde en de niet-gepensioneerde flexi-jobbers, meer bepaald de loonberekeningen m.b.t. het jaar 2025 en later.
+
+Hoewel de onlinedienst **Flexi At Work** beschikbaar is vanaf 2 december 2024, geldt de verplichting om loongegevens aan te geven pas voor flexi-prestaties geleverd vanaf 1 januari 2025.
+
+Regularisaties uitgevoerd in 2025 van flexiloon dat betrekking heeft op 2024 moeten niet worden gemeld in **Flexi At Work**. Bijv. een regularisatie in januari 2025 van flexiloon betreffende december 2024 moet niet worden aangegeven.
+
+Regularisatie uitgevoerd in 2026 van flexiloon dat betrekking heeft op 2025 moeten wel worden gemeld in **Flexi At Work**. Bijv. een regularisatie in januari 2026 van flexiloon betreffende december 2025 moet wel worden aangegeven.
+
 
 ### 2.2 INDIENINGSTERMIJN
 
-> *(Contenu à compléter)*
+De aangifte wordt in principe verzonden uiterlijk 5 dagen na de creatie van elk loonbrief.
+
+Indien in de loop van een kalendermaand meerdere loonbrieven worden gegenereerd, dan mogen deze loonbrieven worden verzonden op het einde van de maand. In de pilootfase moet er een afzonderlijk aangiftebestand per loonbrief worden verzonden. Ze moeten worden aangegeven uiterlijk 5 dagen na de creatie van de laatste loonbrief die betrekking heeft op de kalendermaand in kwestie.
+
+Bijvoorbeeld: voor een uitzendkracht wordt elke week een loonbrief gegenereerd. In de maand februari wordt een loonbrief gecreëerd op 7/2/2025, 14/2/2025, 21/2/2025 en 28/2/2025. De vier loonbrieven voor de maand februari mogen worden verzonden op uiterlijk 5/3/2025.
+
+
 
 ### 2.3 VERZENDINGSKANALEN
 
-> *(Contenu à compléter)*
+De gegevens kunnen worden verzonden via een batchkanaal of een webtoepassing op de portaalsite van de sociale zekerheid.
+
+Het batchkanaal is eerder gericht op gebruik door grote verzenders, zoals bijvoorbeeld sociale secretariaten, dienstverleners en grote werkgevers. De webtoepassing daarentegen is eerder gericht op gebruik door kleine werkgevers.
+
 
 ---
 
 ## 3. GEGEVENS
 
 ### 3.1 OVERZICHT
+Hieronder vindt u een overzicht van de verschillende gegevensblokken en de inhoud van elk blok in de pilootfase.
 
-> *(Contenu à compléter)*
+![image](https://github.com/user-attachments/assets/d4904400-792e-46e7-b600-2d9eb2d843bc)
+Op langere termijn, bij de verdere realisatie van de centrale datalaag in het kader van het eGov 3.0-project, zullen deze blokken bijkomende gegevens bevatten. Er zullen mogelijks ook extra blokken worden toegevoegd aan het bovenstaande schema.
 
 ### 3.2 Schema (Blocs)
 

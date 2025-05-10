@@ -1,3 +1,5 @@
+[Return](../README.md)
+
 ## Veld : serviceType (Prestatie- of afwezigheidscode)
 
 **Beschrijving :**  

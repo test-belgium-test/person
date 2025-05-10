@@ -14,19 +14,19 @@ This repository contains:
 
 | Type           | Description | Documentation FR | Documentatie NL| Documentation EN|
 | -------------- | ----------- | ---------------- | -------------- | --------------- |
-| -------------- | ----------- | ---------------- | -------------- | --------------- |
+| Glossary       | A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used. | Voir la documentation| [Bekijk de documentatie](docs/technical_docs/instructies_flexi_nl.md) | See the EN documentation |
 
 
 ## Repository Structure
 
 ```
-person/
-├── README.md                      #  Introduction and description of the repository
+basic/
+├── README.md                      #  Introduction and description of the repository (This page)
 ├── docs/
 │   ├── technical_specs/
 │   │   ├── basic.yaml             # Glossary and OpenAPI definitions
 ├── technical_docs/
-│   └── README.md                  # Technical constraints explained in plain language
+│   └── README_XX.md               # Technical constraints explained in plain language and XX can be FR/NL/EN/DE
 │   │   ├── schema                 # Contains documentation for different data blocks 
 │   │   ├── field                  # Contains documentation for the different fields within data blocks
 └── RELEASE_NOTES.md               # Description of glossary versions or changes

@@ -11,7 +11,7 @@ Dit schema bevat verschillende gegevens.
 | Veldnaam          | Beschrijving                                     | 
 |-------------------|--------------------------------------------------|
 | sequenceNbr       | Volgnummer                                       | 
-| ServiceType       | Prestatie- of afwezigheidscode                   | 
+| [ServiceType](../field/serviceType.md)       | Prestatie- of afwezigheidscode                   | 
 | startDate         | Datum of begindatum van prestatie of afwezigheid | 
 | endDate           | Einddatum van prestatie of afwezigheid           | 
 | nbrOfHours        | Aantal uren van prestatie of afwezigheid         | 

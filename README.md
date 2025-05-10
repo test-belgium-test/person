@@ -6,16 +6,11 @@ Welcome to the `basic` repository of the **e-Gov 3.0** project, dedicated to the
 
 This repository contains:
 
-- A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used.
-- Concrete examples of personal data represented in **JSON**.
-- 📄 Check out the [Technical Notes](docs/technical_docs/README.md) for more details on technical constraints.
-- Retrieve the JSON schema here: [Swagger](docs/technical_specs/basic.yaml)
-- 🌐 View the documentation here: [Swagger UI](https://test-belgium-test.github.io/basic/)
-
-| Type           | Description | Documentation FR | Documentatie NL| Documentation EN|
-| -------------- | ----------- | ---------------- | -------------- | --------------- |
-| Glossary       | A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used. | Voir la documentation| [Bekijk de documentatie](docs/technical_docs/instructies_flexi_nl.md) | See the EN documentation |
-
+| Type        | Description                                                                                    | Documentation FR      | Documentatie NL                                            | Documentation EN                           |
+|-------------|------------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------------------|--------------------------------------------|
+| Glossary    | A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used. | Voir la documentation | [Bekijk de documentatie](docs/technical_docs_nl/README.md) | See the EN documentation                   |
+| JSON schema | Retrieve the JSON schema                                                                       |                       |                                                            |[Swagger](docs/technical_specs/basic.yaml) |
+| JSON UI     | View the documentation                                                                         |                       |                                                            | [Swagger UI](https://test-belgium-test.github.io/basic/)                            |
 
 ## Repository Structure
 
@@ -25,8 +20,8 @@ basic/
 ├── docs/
 │   ├── technical_specs/
 │   │   ├── basic.yaml             # Glossary and OpenAPI definitions
-├── technical_docs/
-│   └── README_XX.md               # Technical constraints explained in plain language and XX can be FR/NL/EN/DE
+├── technical_docs_XX/             #XX can be FR/NL/EN/DE
+│   └── README.md                  # Technical constraints explained in plain language 
 │   │   ├── schema                 # Contains documentation for different data blocks 
 │   │   ├── field                  # Contains documentation for the different fields within data blocks
 └── RELEASE_NOTES.md               # Description of glossary versions or changes

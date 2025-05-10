@@ -1,12 +1,12 @@
-## Schema: Service
+## Schema: Service NL
 
-**Description:**  
-Allows the declaration of a worker's benefits for an occupation of the worker's line. 
-This schema includes several pieces of information.
+**Beschrijving:**  
+Stelt de verklaring van de voordelen van een werknemer voor een bezetting van de lijn van de werknemer mogelijk.  
+Dit schema bevat verschillende gegevens.
 
-### Schema Properties:
+### Schema Eigenschappen:
 
-| Field Name        | Description                                                                | 
+| Veldnaam          | Beschrijving                                                               | 
 |-------------------|----------------------------------------------------------------------------|
 | sequenceNbr       | Volgnummer                                                                 | 
 | ServiceType       | Prestatie- of afwezigheidscode                                             | 
@@ -14,15 +14,15 @@ This schema includes several pieces of information.
 | endDate           | Einddatum van prestatie of afwezigheid                                     | 
 | nbrOfHours        | Aantal uren van prestatie of afwezigheid                                   | 
 
-### Business Constraints:
+### Zakelijke Beperkingen:
 
-* **Mandatory**: At least one benefit must be declared.
-* **Format**: The date format is `YYYY-MM-DD` and time is expressed in hours.
+* **Verplicht**: Ten minste één voordeel moet worden gedeclareerd.
+* **Formaat**: Het datumformaat is `YYYY-MM-DD` en tijd wordt uitgedrukt in uren.
 
-### Anomalies:
+### Anomalieën:
 
-Comming Soon
+Binnenkort beschikbaar
 
-### Related Documentation:
+### Gerelateerde Documentatie:
 [Annex 90018](https://www.socialsecurity.be/portail/glossaires/dmfa.nsf/be8ba64d95a2ed0ec125686200574ff5/3ec8c3acff4dffc1c1258bea003378c9?OpenDocument)
 

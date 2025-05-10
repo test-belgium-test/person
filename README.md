@@ -12,6 +12,11 @@ This repository contains:
 - Retrieve the JSON schema here: [Swagger](docs/technical_specs/basic.yaml)
 - 🌐 View the documentation here: [Swagger UI](https://test-belgium-test.github.io/basic/)
 
+| Type           | Description | Documentation FR | Documentatie NL| Documentation EN|
+| -------------- | ----------- | ---------------- | -------------- | --------------- |
+| -------------- | ----------- | ---------------- | -------------- | --------------- |
+
+
 ## Repository Structure
 
 ```

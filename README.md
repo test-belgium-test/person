@@ -9,7 +9,7 @@ This repository contains:
 - A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used.
 - Concrete examples of personal data represented in **JSON**.
 - 📄 Check out the [Technical Notes](docs/technical_docs/README.md) for more details on technical constraints.
-- Retrieve the JSON schema here: [Swagger](docs/technical_specs/basics.yaml)
+- Retrieve the JSON schema here: [Swagger](docs/technical_specs/basic.yaml)
 - 🌐 View the documentation here: [Swagger UI](https://test-belgium-test.github.io/person/)
 
 ## Repository Structure

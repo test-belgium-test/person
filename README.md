@@ -1,37 +1,39 @@
-# Glossaire et Référentiels Techniques
+# Glossary and Technical References
 
-Bienvenue dans le repository `basic` du projet **e-Test 3.0**, dédié à la définition et à la standardisation des types de données.
+Welcome to the `basic` repository of the **e-Gov 3.0** project, dedicated to the definition and standardization of data types.
 
-## Contenu du repository
+## Repository Contents
 
-Ce repository contient :
+This repository contains:
 
-- Un glossaire standardisé au format **OpenAPI (Swagger)**, décrivant précisément les champs utilisés.
-- Des exemples concrets de données personnelles représentées en **JSON**.
-- 📄 Consultez les [Notes Techniques](docs/technical_docs/README.md) pour plus de détails sur les contraintes techniques.
-- récupérer le schéma json ici : [Swagger](docs/technical_specs/basics.yaml)
-- 🌐 Visualisez la documentation ici : [Swagger UI](https://test-belgium-test.github.io/person/)
+- A standardized glossary in **OpenAPI (Swagger)** format, precisely describing the fields used.
+- Concrete examples of personal data represented in **JSON**.
+- 📄 Check out the [Technical Notes](docs/technical_docs/README.md) for more details on technical constraints.
+- Retrieve the JSON schema here: [Swagger](docs/technical_specs/basics.yaml)
+- 🌐 View the documentation here: [Swagger UI](https://test-belgium-test.github.io/person/)
 
-
-
-## Structure du repository
+## Repository Structure
 
 ```
 person/
-├── README.md                      # Introduction et description du repository
+├── README.md                      #  Introduction and description of the repository
 ├── docs/
 │   ├── technical_specs/
-│   │   ├── basic.yaml             # Glossaire et définitions OpenAPI
+│   │   ├── basic.yaml             # Glossary and OpenAPI definitions
 ├── technical_docs/
-│   └── README.md                  # Contraintes techniques expliquées en langage naturel
-└── RELEASE_NOTES.md               # Desciption des versions du glosszaire ou des changements
+│   └── README.md                  # Technical constraints explained in plain language
+│   │   ├── schema                 # Contains documentation for different data blocks 
+│   │   ├── field                  # Contains documentation for the different fields within data blocks
+└── RELEASE_NOTES.md               # Description of glossary versions or changes
 ```
 
-## Comment utiliser ces ressources
+## How to Use These Resources
 
-Utilisez ces ressources pour comprendre, valider et intégrer efficacement les données les systèmes associés. Chaque fichier JSON d'exemple et la documentation technique sont conçus pour vous guider clairement à travers les standards requis par le projet.
+Use these resources to understand, validate, and effectively integrate the data of the associated systems. 
+Each example JSON file and the technical documentation are designed to guide you clearly through the standards required by the project.
 
-Merci pour votre intérêt !
+Thank you!
+
 
 
 

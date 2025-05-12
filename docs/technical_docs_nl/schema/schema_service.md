@@ -1,4 +1,10 @@
+---
+layout: default
+title: Schema Service NL
+---
 [Return](../README.md)
+
+# Schema: Service
 
 ## Schema: Service (Prestaties)
 

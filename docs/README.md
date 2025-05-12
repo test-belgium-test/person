@@ -26,6 +26,7 @@ basic/
 ├── README.md                      #  Introduction and description of the repository (This page)
 ├── docs/
 │   ├── technical_specs/
+│   │   ├── Annex  
 │   │   ├── basic.yaml             # Glossary and OpenAPI definitions
 ├── technical_docs_XX/             #XX can be FR/NL/EN/DE
 │   └── README.md                  # Technical constraints explained in plain language 

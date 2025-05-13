@@ -4,7 +4,7 @@
 
 Dit document maakt deel uit van de **functioneel/technische documentatie** voor eGov3.0. Het biedt een beschrijving van het dataschema `Service`, dat gebruikt wordt voor het aangeven van prestaties of afwezigheden van een werknemer.
 
-Voor een goed begrip, raden we aan eerst de [algemene context en inleiding](../README.md) te bekijken, evenals het [glossarium](./glossarium.md) en de [bijlagen](./annexes.md).
+Voor een goed begrip, raden we aan eerst de [algemene context en inleiding](../README.md) te bekijken.
 
 ---
 

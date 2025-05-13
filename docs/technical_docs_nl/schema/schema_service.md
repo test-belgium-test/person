@@ -29,7 +29,7 @@ Het `Service`-schema stelt de aangifte van voordelen of prestaties van een werkn
 | **Veldnaam**     | **Beschrijving**                                          |
 |------------------|-----------------------------------------------------------|
 | `sequenceNbr`    | Volgnummer van de aangifte                               |
-| `serviceType`    | Code die het type prestatie of afwezigheid aanduidt      |
+| [`serviceType`](../field/serviceType.md)    | Code die het type prestatie of afwezigheid aanduidt      |
 | `startDate`      | Startdatum van de prestatie of afwezigheid (formaat: `YYYY-MM-DD`) |
 | `endDate`        | Einddatum van de prestatie of afwezigheid (formaat: `YYYY-MM-DD`) |
 | `nbrOfHours`     | Aantal gepresteerde of afwezige uren (in uren)           |

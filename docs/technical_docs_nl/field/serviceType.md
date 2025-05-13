@@ -12,7 +12,7 @@ Het veld `serviceType` geeft aan welk type prestatie of afwezigheid van toepassi
 
 - **Type** : `String`
 - **Enumeratie** : De toegelaten waarden worden opgesomd in de bijlage  
-  👉 [Annex 100 – Codes Prestatie (Excel)](../../technical_specs/Annex/annex100_service_code.xlsx)
+  👉 <a href="../../technical_specs/Annex/annex100_service_code.xlsx" target="_blank">📂 Annex 100 – Codes Prestatie (Excel)</a>
 
 ---
 
@@ -32,8 +32,3 @@ Een overzicht van mogelijke anomalieën wordt binnenkort toegevoegd.
 ## 📎 Gerelateerde documentatie
 
 - [Schema: Service](../schema/schema_service.md)
-
-
-
-
-

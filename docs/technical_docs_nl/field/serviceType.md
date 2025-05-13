@@ -31,7 +31,7 @@ Een overzicht van mogelijke anomalieën wordt binnenkort toegevoegd.
 
 ## 📎 Gerelateerde documentatie
 
-- [Schema: Service](./schema_service.md)
+- [Schema: Service](../schema/schema_service.md)
 
 
 
